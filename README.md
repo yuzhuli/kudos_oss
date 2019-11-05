@@ -1,4 +1,5 @@
 # kudos_oss
+Implement the tutorial for CRUD app with flask and React: https://developer.okta.com/blog/2018/12/20/crud-app-with-python-flask-react
 
 ### Setup venv
 * Check python version: python --version
