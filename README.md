@@ -2,7 +2,7 @@
 
 ### Setup venv
 * Check python version: python --version
-* Install virtual environment: python3 -m venv ~/Dropbox/code/kudos_oss/venv (path to virtual env directory). Running this command creates the target directory (creating any parent directories that don’t exist already) and places a pyvenv.cfg file in it with a home key pointing to the Python installation from which the command was run (a common name for the target directory is .venv). 
+* Install virtual environment: python3 -m venv ~/kudos_oss/venv (path to virtual env directory). Running this command creates the target directory (creating any parent directories that don’t exist already) and places a pyvenv.cfg file in it with a home key pointing to the Python installation from which the command was run (a common name for the target directory is .venv). 
 * Activate venv: source venv/bin/activate
 
 ### Python Rest api with MongoDB 
